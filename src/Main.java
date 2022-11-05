@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        int x = 8;
-        int y = 6;
+        int x = 40;
+        int y = 89;
 
         System.out.println(add(x,y));
 
